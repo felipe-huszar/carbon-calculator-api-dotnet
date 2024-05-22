@@ -1,0 +1,6 @@
+@CarbonCalculatorAPI_HostAddress = http://localhost:5265
+
+GET {{CarbonCalculatorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
