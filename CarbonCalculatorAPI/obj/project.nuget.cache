@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N/I1Inw+jZv7aGtTF57lfcgDWkvRVA00JAhLei/zYq28/k/c4jGswTd8ae2wGDEg7x3h6h5pyttO9l8N8OCpuQ==",
+  "dgSpecHash": "VjqSp5gSq4hM4fvzBHRaQF3gdsr9Cyj0HbX8v8+0T4RUoTT3UT9I5PN0rG9NBBhYbZ6s2t4nNH2ZswR31ggmVg==",
   "success": true,
-  "projectFilePath": "C:\\code\\carbon-calculator-api-dotnet\\CarbonCalculatorAPI\\CarbonCalculatorAPI.csproj",
+  "projectFilePath": "c:\\code\\carbon-calculator-api-dotnet\\CarbonCalculatorAPI\\CarbonCalculatorAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\carbon-calculator-api-dotnet\\CarbonCalculatorAPI\\CarbonCalculatorAPI.csproj": {}
+    "c:\\code\\carbon-calculator-api-dotnet\\CarbonCalculatorAPI\\CarbonCalculatorAPI.csproj": {}
   },
   "projects": {
-    "C:\\code\\carbon-calculator-api-dotnet\\CarbonCalculatorAPI\\CarbonCalculatorAPI.csproj": {
+    "c:\\code\\carbon-calculator-api-dotnet\\CarbonCalculatorAPI\\CarbonCalculatorAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\carbon-calculator-api-dotnet\\CarbonCalculatorAPI\\CarbonCalculatorAPI.csproj",
+        "projectUniqueName": "c:\\code\\carbon-calculator-api-dotnet\\CarbonCalculatorAPI\\CarbonCalculatorAPI.csproj",
         "projectName": "CarbonCalculatorAPI",
-        "projectPath": "C:\\code\\carbon-calculator-api-dotnet\\CarbonCalculatorAPI\\CarbonCalculatorAPI.csproj",
+        "projectPath": "c:\\code\\carbon-calculator-api-dotnet\\CarbonCalculatorAPI\\CarbonCalculatorAPI.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\carbon-calculator-api-dotnet\\CarbonCalculatorAPI\\obj\\",
+        "outputPath": "c:\\code\\carbon-calculator-api-dotnet\\CarbonCalculatorAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
